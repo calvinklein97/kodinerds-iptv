@@ -623,3 +623,6 @@ https://streams.90s90s.de/grunge/mp3-192/
 
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-rock.JPEG" group-title="90s90s",90s90s Rock
 https://streams.90s90s.de/rock/mp3-192/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/90s90s.JPG" group-title="90s90s",90s90s Radio
+https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/
