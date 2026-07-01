@@ -488,6 +488,70 @@ https://stream.reboot.fm/listen/reboot.fm/radio.mp3
 http://mp3channels.webradio.rockantenne.de/rockantenne
 #EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
 http://stream.rockantenne.de/heavy-metal
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
+https://stream.rockantenne.de/rockantenne/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Heavy Metal" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Heavy Metal
+https://stream.rockantenne.de/heavy-metal/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Alternative" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Alternative
+https://stream.rockantenne.de/alternative/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Hard Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Hard Rock
+https://stream.rockantenne.de/rock-antenne-hard-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Modern Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Modern Rock
+https://stream.rockantenne.de/modern-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Classic Perlen" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Classic Perlen
+https://stream.rockantenne.de/classic-perlen/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Deutschrock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Deutschrock
+https://stream.rockantenne.de/deutschrock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Punk Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Punk Rock
+https://stream.rockantenne.de/punk-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Live Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Live Rock
+https://stream.rockantenne.de/live-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Modern Metal" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Modern Metal
+https://stream.rockantenne.de/modern-metal/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Grunge" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Grunge
+https://stream.rockantenne.de/grunge/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Hair Metal" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Hair Metal
+https://stream.rockantenne.de/hair-metal/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Biker Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Biker Rock
+https://stream.rockantenne.de/biker-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Blues Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Blues Rock
+https://stream.rockantenne.de/blues-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Gothic" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Gothic
+https://stream.rockantenne.de/gothic/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Rockabilly" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Rockabilly
+https://stream.rockantenne.de/rockabilly/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Party Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Party Rock
+https://stream.rockantenne.de/party-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE 70er Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE 70er Rock
+https://stream.rockantenne.de/70er-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE 80er Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE 80er Rock
+https://stream.rockantenne.de/80er-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE 90er Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE 90er Rock
+https://stream.rockantenne.de/90er-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE Country Antenne" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Country Antenne
+https://stream.rockantenne.de/country-antenne/stream/mp3
+
 #EXTINF:-1 tvg-name="Rockland Radio" group-title="Rockland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png",Rockland Radio
 https://streams.rockland.de/dab/mp3-192/streams.rockland.de/
 #EXTINF:-1 tvg-name="ROCKLAND.FM" group-title="Rockland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png",ROCKLAND.FM
