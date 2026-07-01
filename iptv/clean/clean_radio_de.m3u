@@ -19,10 +19,46 @@ http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="89.0 RTL" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL
 http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
+
 #EXTINF:-1 tvg-name="Absolut Radio" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Radio
 https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
-#EXTINF:-1 tvg-name="Absolut relax" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutrelax.png",Absolut relax
+
+#EXTINF:-1 tvg-name="Absolut relax" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut relax
 https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut HOT" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut HOT
+https://absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Germany" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Germany
+https://absolut-germany.live-sm.absolutradio.de/absolut-germany/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Bella" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Bella
+https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Oldies" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Oldies
+https://absolut-oldies.live-sm.absolutradio.de/absolut-oldies/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut 80er" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut 80er
+https://absolut-80er.live-sm.absolutradio.de/absolut-80er/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Rock" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Rock
+https://absolut-rock.live-sm.absolutradio.de/absolut-rock/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Lovesongs" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Lovesongs
+https://absolut-lovesongs.live-sm.absolutradio.de/absolut-lovesongs/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Top Clubnight" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Top Clubnight
+https://absolut-clubnight.live-sm.absolutradio.de/absolut-clubnight/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut musicXL" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut musicXL
+https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Coffeemusic" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Coffeemusic
+https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic/stream/mp3
+
+#EXTINF:-1 tvg-name="Absolut Radio AI" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Radio AI
+https://absolut-ai.live-sm.absolutradio.de/absolut-ai/stream/mp3
+
 #EXTINF:-1 tvg-name="antenne 1" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antenne1.png",antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
 
