@@ -582,45 +582,44 @@ http://player.ffn.de/radiobollerwagen.mp3
 #EXTINF:-1 tvg-name="eldoradio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/eldoradio.png",eldoradio
 http://sender.eldoradio.de:8000/128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Real 90s (Hauptprogramm)
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_main.png" group-title="Radio-DE",90s90s Real 90s
 https://streams.90s90s.de/main/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Eurodance
-https://streams.90s90s.de/eurodance/mp3-192/
-
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s In The Mix
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_inthemix.png" group-title="Radio-DE",90s90s In The Mix
 https://streams.90s90s.de/inthemix/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Dance Radio
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_dance.png" group-title="Radio-DE",90s90s Dance Radio
 https://streams.90s90s.de/dance/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Techno
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_eurodance.png" group-title="Radio-DE",90s90s Eurodance
+https://streams.90s90s.de/eurodance/mp3-192/
+
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_techno.png" group-title="Radio-DE",90s90s Techno
 https://streams.90s90s.de/techno/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Rave
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_rave.png" group-title="Radio-DE",90s90s Rave
 https://streams.90s90s.de/rave/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Trance
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_trance.png" group-title="Radio-DE",90s90s Trance
 https://streams.90s90s.de/trance/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s House
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_house.png" group-title="Radio-DE",90s90s House
 https://streams.90s90s.de/house/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Loveparade
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_loveparade.png" group-title="Radio-DE",90s90s Loveparade
 https://streams.90s90s.de/loveparade/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Mayday
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_mayday.png" group-title="Radio-DE",90s90s Mayday
 https://streams.90s90s.de/mayday/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Boygroups
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_boygroups.png" group-title="Radio-DE",90s90s Boygroups
 https://streams.90s90s.de/boygroups/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Hiphop & Rap
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_hiphop.png" group-title="Radio-DE",90s90s Hiphop & Rap
 https://streams.90s90s.de/hiphop/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Grunge
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_grunge.png" group-title="Radio-DE",90s90s Grunge
 https://streams.90s90s.de/grunge/mp3-192/
 
-#EXTINF:-1 tvg-logo="https://www.90s90s.de/sites/default/files/90s90s_logo.png" group-title="Radio",90s90s Rock
+#EXTINF:-1 tvg-logo="https://assets.regiocast.de/images/90s90s_rock.png" group-title="Radio-DE",90s90s Rock
 https://streams.90s90s.de/rock/mp3-192/
-
