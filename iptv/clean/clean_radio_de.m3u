@@ -329,6 +329,40 @@ http://nrj.de/sachsen
 http://nrj.de/stuttgart
 #EXTINF:-1 tvg-name="RADIO ENERGY Bremen" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergybremen.png",RADIO ENERGY Bremen
 http://nrj.de/bremen
+
+#EXTINF:-1 tvg-name="RADIO ENERGY R'n'B" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY R'n'B
+http://nrj.de/rnb
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Urban" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Urban
+http://nrj.de/urban
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Pop" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Pop
+http://nrj.de/pop
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Mastermix" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Mastermix
+http://nrj.de/mastermix
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Eurodance" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Eurodance
+http://nrj.de/eurodance
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Love" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Love
+http://nrj.de/love
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Acoustic" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Acoustic
+http://nrj.de/acoustic
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Latino" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Latino
+http://nrj.de/latino
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Work" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Work
+http://nrj.de/work
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Chill" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Chill
+http://nrj.de/chill
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Party" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Party
+http://nrj.de/party
+
 #EXTINF:-1 tvg-name="Radio Horeb" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiohoreb.png",Radio Horeb
 http://rs16.stream24.org:8000/horeb.mp3
 #EXTINF:-1 tvg-name="Radio Paloma" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiopaloma.png",Radio Paloma
