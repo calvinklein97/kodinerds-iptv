@@ -300,12 +300,38 @@ https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Inselradio" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/inselradio.png",Inselradio
 https://inselradio--di--nacs-ais-lgc--02--cdn.cast.addradio.de/inselradio/live/mp3/high
+
+# ======================
+# JAM FM COMPLETION PACK
+# ======================
+
 #EXTINF:-1 tvg-name="JAM FM" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM
 http://stream.jam.fm/jamfm-live/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JAM FM Black Label" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Black Label
 http://stream.jam.fm/jamfm-bl/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JAM FM New Music Radio" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM New Music Radio
 http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+#EXTINF:-1 tvg-name="JAM FM Elektro" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Elektro
+https://stream.jam.fm/elektro/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM Rap" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Rap
+https://stream.jam.fm/rap/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM Generation Deutschrap" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Generation Deutschrap
+https://stream.jam.fm/generation-deutschrap/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM Dance" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Dance
+https://stream.jam.fm/party/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM 90er" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM 90er R'n'B
+https://stream.jam.fm/90er/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM 2000er" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM 2000er
+https://stream.jam.fm/2000er/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM 2010er" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM 2010er
+https://stream.jam.fm/2010er/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM Chill" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Chillout
+https://stream.jam.fm/chill/mp3-192/
+#EXTINF:-1 tvg-name="JAM FM Rock" group-title="JAM FM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Rock & Pop
+https://stream.jam.fm/rock/mp3-192/
+
+# ======================
+
 #EXTINF:-1 tvg-name="JazzRadio Berlin" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jazzradio.png",JazzRadio Berlin
 http://streaming.radio.co:80/s774887f7b/listen
 #EXTINF:-1 tvg-name="WDR Die Maus" group-title="WDR / 1LIVE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mausradio.png",WDR Die Maus
