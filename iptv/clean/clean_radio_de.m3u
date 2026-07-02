@@ -250,8 +250,30 @@ http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
 https://stream.erf.de/erfplus.m3u
 #EXTINF:-1 tvg-name="ERF Jess" group-title="ERF" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png",ERF Jess
 https://stream.erf.de/erfpop.m3u
-#EXTINF:-1 tvg-name="ffn" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn
+
+# =======
+# FFN GRUPPE
+# ======
+
+#EXTINF:-1 tvg-name="ffn" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn
 https://player.ffn.de/radioffn.mp3
+#EXTINF:-1 tvg-name="ffn 80er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 80er
+https://player.ffn.de/ffn80er.mp3
+#EXTINF:-1 tvg-name="ffn 90er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 90er
+https://player.ffn.de/ffn90er.mp3
+#EXTINF:-1 tvg-name="ffn 2000er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 2000er
+https://player.ffn.de/ffn2000er.mp3
+#EXTINF:-1 tvg-name="ffn Rock" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Rock
+https://player.ffn.de/ffnrock.mp3
+#EXTINF:-1 tvg-name="ffn Gold" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Gold (Oldies)
+https://player.ffn.de/ffngold.mp3
+#EXTINF:-1 tvg-name="ffn Chillout" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Chillout
+https://player.ffn.de/ffnchillout.mp3
+#EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",Radio Bollerwagen
+https://player.ffn.de/radiobollerwagen.mp3
+
+# ======
+
 #EXTINF:-1 tvg-name="FluxFM" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Freundesdienst" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofd.png",Freundesdienst
