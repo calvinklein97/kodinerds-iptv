@@ -22,19 +22,19 @@ http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 # 89.0 RTL GRUPPE
 # ==============
 
-#EXTINF:-1 tvg-name="89.0 RTL" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL
+#EXTINF:-1 tvg-name="89.0 RTL" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",89.0 RTL
 http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
-#EXTINF:-1 tvg-name="89.0 RTL In The Mix" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL In The Mix
+#EXTINF:-1 tvg-name="89.0 RTL In The Mix" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",89.0 RTL In The Mix
 http://stream.89.0rtl.de/mix/mp3-128/RTLplus/
-#EXTINF:-1 tvg-name="89.0 RTL Deutschrap" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Deutschrap
+#EXTINF:-1 tvg-name="89.0 RTL Deutschrap" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",89.0 RTL Deutschrap
 http://stream.89.0rtl.de/deutsch-rap/mp3-128/RTLplus/
-#EXTINF:-1 tvg-name="89.0 RTL Dance Hits" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Dance Hits
+#EXTINF:-1 tvg-name="89.0 RTL Dance Hits" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",89.0 RTL Dance Hits
 http://stream.89.0rtl.de/club-edm/mp3-128/RTLplus/
-#EXTINF:-1 tvg-name="89.0 RTL Chill Zone" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Chill Zone
+#EXTINF:-1 tvg-name="89.0 RTL Chill Zone" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",89.0 RTL Chill Zone
 http://stream.89.0rtl.de/chill-zone/mp3-128/
-#EXTINF:-1 tvg-name="89.0 RTL Remmidemmi" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Remmidemmi
+#EXTINF:-1 tvg-name="89.0 RTL Remmidemmi" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",89.0 RTL Remmidemmi
 http://stream.89.0rtl.de/remmidemmi/mp3-128/RTLplus/
-#EXTINF:-1 tvg-name="RTL Deutschlands Hit-Radio" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",RTL Deutschlands Hit-Radio
+#EXTINF:-1 tvg-name="RTL Deutschlands Hit-Radio" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/890rtl_2.png",RTL Deutschlands Hit-Radio
 http://stream.rtlradio.de/live/mp3-192
 
 # ==============
