@@ -448,7 +448,7 @@ https://streams.radiobob.de/motoerhead/mp3-192/mediaplayer/
 https://streams.radiobob.de/rockoldies/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="Radio Brocken" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobrocken.png",Radio Brocken
 http://stream.radiobrocken.de/live/mp3-256
-#EXTINF:-1 tvg-name="RADIO ENERGY Sachsen" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Sachsen
+#EXTINF:-1 tvg-name="RADIO ENERGY Sachsen" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Sachsen
 http://nrj.de/sachsen
 #EXTINF:-1 tvg-name="RADIO ENERGY Stuttgart" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergystuttgart.png",RADIO ENERGY Stuttgart
 http://nrj.de/stuttgart
@@ -459,27 +459,27 @@ http://nrj.de/bremen
 # RADIO ENERGY GRUPPE
 # ===================
 
-#EXTINF:-1 tvg-name="RADIO ENERGY R'n'B" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY R'n'B
+#EXTINF:-1 tvg-name="RADIO ENERGY R'n'B" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY R'n'B
 http://nrj.de/rnb
-#EXTINF:-1 tvg-name="RADIO ENERGY Urban" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Urban
+#EXTINF:-1 tvg-name="RADIO ENERGY Urban" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Urban
 http://nrj.de/urban
-#EXTINF:-1 tvg-name="RADIO ENERGY Pop" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Pop
+#EXTINF:-1 tvg-name="RADIO ENERGY Pop" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Pop
 http://nrj.de/pop
-#EXTINF:-1 tvg-name="RADIO ENERGY Mastermix" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Mastermix
+#EXTINF:-1 tvg-name="RADIO ENERGY Mastermix" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Mastermix
 http://nrj.de/mastermix
-#EXTINF:-1 tvg-name="RADIO ENERGY Eurodance" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Eurodance
+#EXTINF:-1 tvg-name="RADIO ENERGY Eurodance" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Eurodance
 http://nrj.de/eurodance
-#EXTINF:-1 tvg-name="RADIO ENERGY Love" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Love
+#EXTINF:-1 tvg-name="RADIO ENERGY Love" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Love
 http://nrj.de/love
-#EXTINF:-1 tvg-name="RADIO ENERGY Acoustic" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Acoustic
+#EXTINF:-1 tvg-name="RADIO ENERGY Acoustic" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Acoustic
 http://nrj.de/acoustic
-#EXTINF:-1 tvg-name="RADIO ENERGY Latino" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Latino
+#EXTINF:-1 tvg-name="RADIO ENERGY Latino" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Latino
 http://nrj.de/latino
-#EXTINF:-1 tvg-name="RADIO ENERGY Work" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Work
+#EXTINF:-1 tvg-name="RADIO ENERGY Work" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Work
 http://nrj.de/work
-#EXTINF:-1 tvg-name="RADIO ENERGY Chill" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Chill
+#EXTINF:-1 tvg-name="RADIO ENERGY Chill" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Chill
 http://nrj.de/chill
-#EXTINF:-1 tvg-name="RADIO ENERGY Party" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Party
+#EXTINF:-1 tvg-name="RADIO ENERGY Party" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Party
 http://nrj.de/party
 
 # ===================
