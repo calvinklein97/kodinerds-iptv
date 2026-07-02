@@ -793,46 +793,52 @@ https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Radio 21 Hannover" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio21hannover.png",Radio 21 Hannover
 https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
 
-#EXTINF:-1 tvg-name="Radio Emscher Lippe" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe
+# ==========================
+# RADIO EMSCHER LIPPE GRUPPE
+# ==========================
+
+#EXTINF:-1 tvg-name="Radio Emscher Lippe" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe
 https://stream.lokalradio.nrw/444zbzk
-#EXTINF:-1 tvg-name="Radio Emscher Lippe 80er" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe 80er
+#EXTINF:-1 tvg-name="Radio Emscher Lippe 80er" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe 80er
 https://stream.lokalradio.nrw/444zgxt
-#EXTINF:-1 tvg-name="Radio Emscher Lippe 90er" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe 90er
+#EXTINF:-1 tvg-name="Radio Emscher Lippe 90er" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe 90er
 https://stream.lokalradio.nrw/444zkbb
-#EXTINF:-1 tvg-name="Radio Emscher Lippe 2000er" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe 2000er
+#EXTINF:-1 tvg-name="Radio Emscher Lippe 2000er" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe 2000er
 https://stream.lokalradio.nrw/4456wvh
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Deutschpop" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Deutschpop
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Deutschpop" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Deutschpop
 https://stream.lokalradio.nrw/444znpt
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Love" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Love
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Love" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Love
 https://stream.lokalradio.nrw/444zwtb
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Lounge" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Lounge
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Lounge" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Lounge
 https://stream.lokalradio.nrw/444ztft
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Karneval" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Karneval
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Karneval" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Karneval
 https://stream.lokalradio.nrw/444zdhk
-#EXTINF:-1 tvg-name="Radio Emscher Lippe XMAS" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe XMAS
+#EXTINF:-1 tvg-name="Radio Emscher Lippe XMAS" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe XMAS
 https://stream.lokalradio.nrw/444zr3b
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Urban" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Urban
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Urban" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Urban
 https://stream.lokalradio.nrw/44528bb
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Oldie" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Oldie
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Oldie" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Oldie
 https://stream.lokalradio.nrw/44548n3
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Rock" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Rock
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Rock" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Rock
 https://stream.lokalradio.nrw/444zz6t
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Rockclassic" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Rockclassic
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Rockclassic" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Rockclassic
 https://stream.lokalradio.nrw/44578v5
-#EXTINF:-1 tvg-name="Radio Emscher Lippe HipHop" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe HipHop
+#EXTINF:-1 tvg-name="Radio Emscher Lippe HipHop" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe HipHop
 https://stream.lokalradio.nrw/4458c6f
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Country" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Country
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Country" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Country
 https://stream.lokalradio.nrw/4457z6s
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Singer" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Singer
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Singer" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Singer
 https://stream.lokalradio.nrw/44566w7
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Top40" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Top40
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Top40" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Top40
 https://stream.lokalradio.nrw/44525xt
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Dance" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Dance
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Dance" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Dance
 https://stream.lokalradio.nrw/4456jvv
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Schlager" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Schlager
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Schlager" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Schlager
 https://stream.lokalradio.nrw/44523kb
-#EXTINF:-1 tvg-name="Radio Emscher Lippe Sommer" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NRWlokal-Radio_Emscher-Lippe_logo.svg/960px-NRWlokal-Radio_Emscher-Lippe_logo.svg.png",Radio Emscher Lippe Sommer
+#EXTINF:-1 tvg-name="Radio Emscher Lippe Sommer" group-title="Radio Emscher Lippe" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/radioemscherlippe.png",Radio Emscher Lippe Sommer
 https://stream.lokalradio.nrw/4457mts
+
+# ===============
 
 #EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png",Radio Bollerwagen
 http://player.ffn.de/radiobollerwagen.mp3
