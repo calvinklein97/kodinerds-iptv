@@ -77,45 +77,45 @@ http://stream.antenne1.de/a1stg/livestream2.mp3
 # ANTENNE BAYERN GRUPPE
 # =====================
 
-#EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN
+#EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN
 http://mp3channels.webradio.antenne.de:80/antenne
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Top 40" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Top 40
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Top 40" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Top 40
 https://stream.antenne.de/top-40/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Fresh" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Fresh
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Fresh" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Fresh
 https://stream.antenne.de/fresh/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN In The Mix" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN In The Mix
+#EXTINF:-1 tvg-name="ANTENNE BAYERN In The Mix" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN In The Mix
 https://stream.antenne.de/in-the-mix/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Dance XXL" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Dance XXL
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Dance XXL" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Dance XXL
 https://stream.antenne.de/dance-xxl/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Black Beatz" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Black Beatz
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Black Beatz" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Black Beatz
 https://stream.antenne.de/black-beatz/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Pop XXL" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Pop XXL
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Pop XXL" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Pop XXL
 https://stream.antenne.de/pop-xxl/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Classic Rock" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Classic Rock
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Classic Rock" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Classic Rock
 https://stream.antenne.de/classic-rock/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Deutsch Pop" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Deutsch Pop
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Deutsch Pop" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Deutsch Pop
 https://stream.antenne.de/deutsch-pop/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Lounge" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Lounge
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Lounge" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Lounge
 https://stream.antenne.de/lounge/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Chillout" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Chillout
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Chillout" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Chillout
 https://stream.antenne.de/chillout-antenne/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN 70er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 70er Hits
+#EXTINF:-1 tvg-name="ANTENNE BAYERN 70er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 70er Hits
 https://stream.antenne.de/70er-hits/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN 80er Kulthits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 80er Kulthits
+#EXTINF:-1 tvg-name="ANTENNE BAYERN 80er Kulthits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 80er Kulthits
 https://stream.antenne.de/80er-kulthits/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN 90er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 90er Hits
+#EXTINF:-1 tvg-name="ANTENNE BAYERN 90er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 90er Hits
 https://stream.antenne.de/90er-hits/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN 2000er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 2000er Hits
+#EXTINF:-1 tvg-name="ANTENNE BAYERN 2000er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 2000er Hits
 https://stream.antenne.de/2000er-hits/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN 2010er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 2010er Hits
+#EXTINF:-1 tvg-name="ANTENNE BAYERN 2010er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 2010er Hits
 https://stream.antenne.de/2010er-hits/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Oldie Antenne" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Oldie Antenne
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Oldie Antenne" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Oldie Antenne
 https://stream.antenne.de/oldie-antenne/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Mallorca Party" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Mallorca Party
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Mallorca Party" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Mallorca Party
 https://stream.antenne.de/mallorca-party/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Schlagersahne" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Schlagersahne
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Schlagersahne" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Schlagersahne
 https://stream.antenne.de/schlagersahne/stream/mp3
-#EXTINF:-1 tvg-name="ANTENNE BAYERN Bayern Sound" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Bayern Sound
+#EXTINF:-1 tvg-name="ANTENNE BAYERN Bayern Sound" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Bayern Sound
 https://stream.antenne.de/bayern-sound/stream/mp3
 
 # =====================
