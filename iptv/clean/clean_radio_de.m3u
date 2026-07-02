@@ -146,8 +146,46 @@ https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
 https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 3" group-title="BR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
-#EXTINF:-1 tvg-name="bigFM" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
+
+#EXTINF:-1 tvg-name="bigFM" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
 https://stream.bigfm.de/deutschland/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Hip-Hop" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Hip-Hop
+https://stream.bigfm.de/hiphop/aac-128
+
+#EXTINF:-1 tvg-name="bigFM US Rap & Hip-Hop" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM US Rap & Hip-Hop
+https://stream.bigfm.de/usrap/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Oldschool Rap & Hip-Hop" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Oldschool Rap & Hip-Hop
+https://stream.bigfm.de/oldschool/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Deutschrap Rasiert" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Deutschrap Rasiert
+https://stream.bigfm.de/deutschrap/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Dance Radio" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Dance Radio
+https://stream.bigfm.de/dance/aac-128
+
+#EXTINF:-1 tvg-name="bigFM EDM & Progressive" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM EDM & Progressive
+https://stream.bigfm.de/edm/aac-128
+
+#EXTINF:-1 tvg-name="bigFM House Beats" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM House Beats
+https://stream.bigfm.de/house/aac-128
+
+#EXTINF:-1 tvg-name="bigFM RnB" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM RnB
+https://stream.bigfm.de/rnb/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Groovenight" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Groovenight
+https://stream.bigfm.de/groovenight/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Sunset Lounge" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Sunset Lounge
+https://stream.bigfm.de/sunsetlounge/aac-128
+
+#EXTINF:-1 tvg-name="bigFM Charts" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Charts
+https://stream.bigfm.de/charts/aac-128
+
+#EXTINF:-1 tvg-name="bigFM 2010er" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM 2010er
+https://stream.bigfm.de/2010er/aac-128
+
 #EXTINF:-1 tvg-name="BlackBeats.FM" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png",BlackBeats.FM
 http://blackbeats.fm/listen.m3u
 #EXTINF:-1 tvg-name="BR Heimat" group-title="BR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png",BR Heimat
