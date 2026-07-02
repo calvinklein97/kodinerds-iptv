@@ -17,110 +17,108 @@ http://stream.spreeradio.de/spree-event/mp3-128/konsole
 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="1LIVE diggi" group-title="WDR / 1LIVE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png",1LIVE diggi
 http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="89.0 RTL" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL
+
+# ==============
+# 89.0 RTL GRUPPE
+# ==============
+
+#EXTINF:-1 tvg-name="89.0 RTL" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL
 http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
+#EXTINF:-1 tvg-name="89.0 RTL In The Mix" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL In The Mix
+http://stream.89.0rtl.de/mix/mp3-128/RTLplus/
+#EXTINF:-1 tvg-name="89.0 RTL Deutschrap" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Deutschrap
+http://stream.89.0rtl.de/deutsch-rap/mp3-128/RTLplus/
+#EXTINF:-1 tvg-name="89.0 RTL Dance Hits" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Dance Hits
+http://stream.89.0rtl.de/club-edm/mp3-128/RTLplus/
+#EXTINF:-1 tvg-name="89.0 RTL Chill Zone" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Chill Zone
+http://stream.89.0rtl.de/chill-zone/mp3-128/
+#EXTINF:-1 tvg-name="89.0 RTL Remmidemmi" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL Remmidemmi
+http://stream.89.0rtl.de/remmidemmi/mp3-128/RTLplus/
+#EXTINF:-1 tvg-name="RTL Deutschlands Hit-Radio" group-title="89.0 RTL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",RTL Deutschlands Hit-Radio
+http://stream.rtlradio.de/live/mp3-192
+
+# ==============
+# ABSOLUT GRUPPE
+# ==============
 
 #EXTINF:-1 tvg-name="Absolut Radio" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Radio
 https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut relax" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut relax
 https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut HOT" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut HOT
 https://absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Germany" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Germany
 https://absolut-germany.live-sm.absolutradio.de/absolut-germany/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Bella" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Bella
 https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Oldies" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Oldies
 https://absolut-oldies.live-sm.absolutradio.de/absolut-oldies/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut 80er" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut 80er
 https://absolut-80er.live-sm.absolutradio.de/absolut-80er/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Rock" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Rock
 https://absolut-rock.live-sm.absolutradio.de/absolut-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Lovesongs" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Lovesongs
 https://absolut-lovesongs.live-sm.absolutradio.de/absolut-lovesongs/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Top Clubnight" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Top Clubnight
 https://absolut-clubnight.live-sm.absolutradio.de/absolut-clubnight/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut musicXL" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut musicXL
 https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Coffeemusic" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Coffeemusic
 https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic/stream/mp3
-
 #EXTINF:-1 tvg-name="Absolut Radio AI" group-title="Absolut Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Radio AI
 https://absolut-ai.live-sm.absolutradio.de/absolut-ai/stream/mp3
+
+# ==============
 
 #EXTINF:-1 tvg-name="antenne 1" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antenne1.png",antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
 
+# =====================
+# ANTENNE BAYERN GRUPPE
+# =====================
+
 #EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN
 http://mp3channels.webradio.antenne.de:80/antenne
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Top 40" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Top 40
 https://stream.antenne.de/top-40/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Fresh" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Fresh
 https://stream.antenne.de/fresh/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN In The Mix" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN In The Mix
 https://stream.antenne.de/in-the-mix/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Dance XXL" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Dance XXL
 https://stream.antenne.de/dance-xxl/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Black Beatz" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Black Beatz
 https://stream.antenne.de/black-beatz/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Pop XXL" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Pop XXL
 https://stream.antenne.de/pop-xxl/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Classic Rock" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Classic Rock
 https://stream.antenne.de/classic-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Deutsch Pop" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Deutsch Pop
 https://stream.antenne.de/deutsch-pop/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Lounge" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Lounge
 https://stream.antenne.de/lounge/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Chillout" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Chillout
 https://stream.antenne.de/chillout-antenne/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 70er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 70er Hits
 https://stream.antenne.de/70er-hits/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 80er Kulthits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 80er Kulthits
 https://stream.antenne.de/80er-kulthits/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 90er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 90er Hits
 https://stream.antenne.de/90er-hits/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 2000er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 2000er Hits
 https://stream.antenne.de/2000er-hits/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 2010er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN 2010er Hits
 https://stream.antenne.de/2010er-hits/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Oldie Antenne" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Oldie Antenne
 https://stream.antenne.de/oldie-antenne/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Mallorca Party" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Mallorca Party
 https://stream.antenne.de/mallorca-party/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Schlagersahne" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Schlagersahne
 https://stream.antenne.de/schlagersahne/stream/mp3
-
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Bayern Sound" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN Bayern Sound
 https://stream.antenne.de/bayern-sound/stream/mp3
+
+# =====================
 
 #EXTINF:-1 tvg-name="Antenne Brandenburg" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png",Antenne Brandenburg
 https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
@@ -147,44 +145,38 @@ https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 3" group-title="BR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
 
+# ============
+# BIGFM GRUPPE
+# ============
+
 #EXTINF:-1 tvg-name="bigFM" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
 https://stream.bigfm.de/deutschland/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Hip-Hop" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Hip-Hop
 https://stream.bigfm.de/hiphop/aac-128
-
 #EXTINF:-1 tvg-name="bigFM US Rap & Hip-Hop" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM US Rap & Hip-Hop
 https://stream.bigfm.de/usrap/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Oldschool Rap & Hip-Hop" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Oldschool Rap & Hip-Hop
 https://stream.bigfm.de/oldschool/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Deutschrap Rasiert" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Deutschrap Rasiert
 https://stream.bigfm.de/deutschrap/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Dance Radio" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Dance Radio
 https://stream.bigfm.de/dance/aac-128
-
 #EXTINF:-1 tvg-name="bigFM EDM & Progressive" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM EDM & Progressive
 https://stream.bigfm.de/edm/aac-128
-
 #EXTINF:-1 tvg-name="bigFM House Beats" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM House Beats
 https://stream.bigfm.de/house/aac-128
-
 #EXTINF:-1 tvg-name="bigFM RnB" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM RnB
 https://stream.bigfm.de/rnb/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Groovenight" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Groovenight
 https://stream.bigfm.de/groovenight/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Sunset Lounge" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Sunset Lounge
 https://stream.bigfm.de/sunsetlounge/aac-128
-
 #EXTINF:-1 tvg-name="bigFM Charts" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM Charts
 https://stream.bigfm.de/charts/aac-128
-
 #EXTINF:-1 tvg-name="bigFM 2010er" group-title="bigFM" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM 2010er
 https://stream.bigfm.de/2010er/aac-128
+
+# ============
 
 #EXTINF:-1 tvg-name="BlackBeats.FM" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png",BlackBeats.FM
 http://blackbeats.fm/listen.m3u
@@ -463,38 +455,34 @@ http://nrj.de/stuttgart
 #EXTINF:-1 tvg-name="RADIO ENERGY Bremen" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergybremen.png",RADIO ENERGY Bremen
 http://nrj.de/bremen
 
+# ===================
+# RADIO ENERGY GRUPPE
+# ===================
+
 #EXTINF:-1 tvg-name="RADIO ENERGY R'n'B" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY R'n'B
 http://nrj.de/rnb
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Urban" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Urban
 http://nrj.de/urban
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Pop" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Pop
 http://nrj.de/pop
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Mastermix" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Mastermix
 http://nrj.de/mastermix
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Eurodance" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Eurodance
 http://nrj.de/eurodance
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Love" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Love
 http://nrj.de/love
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Acoustic" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Acoustic
 http://nrj.de/acoustic
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Latino" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Latino
 http://nrj.de/latino
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Work" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Work
 http://nrj.de/work
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Chill" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Chill
 http://nrj.de/chill
-
 #EXTINF:-1 tvg-name="RADIO ENERGY Party" group-title="Radio Energy" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Party
 http://nrj.de/party
+
+# ===================
 
 #EXTINF:-1 tvg-name="Radio Horeb" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiohoreb.png",Radio Horeb
 http://rs16.stream24.org:8000/horeb.mp3
@@ -559,75 +547,93 @@ https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
 #EXTINF:-1 tvg-name="reboot.fm" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png",reboot.fm
 https://stream.reboot.fm/listen/reboot.fm/radio.mp3
 
+# ===================
+# ROCK ANTENNE GRUPPE
+# ===================
+
 #EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
 https://stream.rockantenne.de/rockantenne/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Heavy Metal" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Heavy Metal
 https://stream.rockantenne.de/heavy-metal/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Alternative" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Alternative
 https://stream.rockantenne.de/alternative/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Hard Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Hard Rock
 https://stream.rockantenne.de/rock-antenne-hard-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Modern Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Modern Rock
 https://stream.rockantenne.de/modern-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Classic Perlen" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Classic Perlen
 https://stream.rockantenne.de/classic-perlen/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Deutschrock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Deutschrock
 https://stream.rockantenne.de/deutschrock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Punk Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Punk Rock
 https://stream.rockantenne.de/punk-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Live Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Live Rock
 https://stream.rockantenne.de/live-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Modern Metal" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Modern Metal
 https://stream.rockantenne.de/modern-metal/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Grunge" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Grunge
 https://stream.rockantenne.de/grunge/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Hair Metal" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Hair Metal
 https://stream.rockantenne.de/hair-metal/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Biker Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Biker Rock
 https://stream.rockantenne.de/biker-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Blues Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Blues Rock
 https://stream.rockantenne.de/blues-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Gothic" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Gothic
 https://stream.rockantenne.de/gothic/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Rockabilly" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Rockabilly
 https://stream.rockantenne.de/rockabilly/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Party Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Party Rock
 https://stream.rockantenne.de/party-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE 70er Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE 70er Rock
 https://stream.rockantenne.de/70er-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE 80er Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE 80er Rock
 https://stream.rockantenne.de/80er-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE 90er Rock" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE 90er Rock
 https://stream.rockantenne.de/90er-rock/stream/mp3
-
 #EXTINF:-1 tvg-name="ROCK ANTENNE Country Antenne" group-title="Rock Antenne" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE Country Antenne
 https://stream.rockantenne.de/country-antenne/stream/mp3
+
+# ===================
 
 #EXTINF:-1 tvg-name="Rockland Radio" group-title="Rockland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png",Rockland Radio
 https://streams.rockland.de/dab/mp3-192/streams.rockland.de/
 #EXTINF:-1 tvg-name="ROCKLAND.FM" group-title="Rockland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png",ROCKLAND.FM
 https://stream.rockland-digital.de/rockland/mp3-192/radio-browser/
-#EXTINF:-1 tvg-name="RPR1" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1
-http://streams.rpr1.de/rpr-koeln-128-mp3
+
+# ===================
+# RPR1 GRUPPE
+# ===================
+
+#EXTINF:-1 tvg-name="RPR1. Live" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. Live
+http://stream.rpr1.de/rpr1/mp3-192/direktlinkHP
+
+#EXTINF:-1 tvg-name="RPR1. 80er" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. 80er
+http://stream.rpr1.de/80er/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. 90er" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. 90er
+http://stream.rpr1.de/90er/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. 2000er" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. 2000er
+http://stream.rpr1.de/2000er/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. Classic Rock" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. Classic Rock
+http://stream.rpr1.de/classicrock/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. Pop-Rock" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. Pop-Rock
+http://stream.rpr1.de/poprock/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. Chillout" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. Chillout
+http://stream.rpr1.de/chillout/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. Tanzbar" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. Tanzbar
+http://stream.rpr1.de/tanzbar/mp3-192/
+
+#EXTINF:-1 tvg-name="RPR1. Top 40" group-title="RPR1" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1. Top 40
+http://stream.rpr1.de/top40/mp3-192/
+
+# ===================
+
 #EXTINF:-1 tvg-name="Schlagerparadies" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/schlagerparadies.png",Schlagerparadies
 https://webstream.schlagerparadies.de/schlagerparadies128.mp3
 #EXTINF:-1 tvg-name="SR 1 Europawelle" group-title="SR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png",SR 1 Europawelle
@@ -809,47 +815,39 @@ http://player.ffn.de/radiobollerwagen.mp3
 #EXTINF:-1 tvg-name="eldoradio" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/eldoradio.png",eldoradio
 http://sender.eldoradio.de:8000/128.mp3
 
+# ===================
+# 90s90s GRUPPE
+# ===================
+
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-real90s.JPEG" group-title="90s90s",90s90s Real 90s
 https://streams.90s90s.de/main/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-in-the-mix.JPEG" group-title="90s90s",90s90s In The Mix
 https://streams.90s90s.de/inthemix/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-Dance-Radio.JPEG" group-title="90s90s",90s90s Dance Radio
 https://streams.90s90s.de/dance/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-eurodance.JPEG" group-title="90s90s",90s90s Eurodance
 https://streams.90s90s.de/eurodance/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-Techno.JPEG" group-title="90s90s",90s90s Techno
 https://streams.90s90s.de/techno/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-Rave.JPEG" group-title="90s90s",90s90s Rave
 https://streams.90s90s.de/rave/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-Trance.JPEG" group-title="90s90s",90s90s Trance
 https://streams.90s90s.de/trance/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-House.JPEG" group-title="90s90s",90s90s House
 https://streams.90s90s.de/house/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-loveparade.JPEG" group-title="90s90s",90s90s Loveparade
 https://streams.90s90s.de/loveparade/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-mayday.JPEG" group-title="90s90s",90s90s Mayday
 https://streams.90s90s.de/mayday/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-boygroups.JPEG" group-title="90s90s",90s90s Boygroups
 https://streams.90s90s.de/boygroups/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-hiphop.JPEG" group-title="90s90s",90s90s Hiphop & Rap
 https://streams.90s90s.de/hiphop/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-grunge.JPEG" group-title="90s90s",90s90s Grunge
 https://streams.90s90s.de/grunge/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://github.com/calvinklein97/kodinerds-iptv/raw/refs/heads/master/logos/radio/90s90s-rock.JPEG" group-title="90s90s",90s90s Rock
 https://streams.90s90s.de/rock/mp3-192/
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/90s90s.JPG" group-title="90s90s",90s90s Radio
 https://streams.90s90s.de/90s00s/mp3-192/streams.90s90s.de/
+
+# ===================
