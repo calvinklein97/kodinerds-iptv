@@ -312,6 +312,45 @@ http://streaming.radio.co:80/s774887f7b/listen
 https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="LandesWelle Thüringen" group-title="Allgemein" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png",LandesWelle Thüringen
 http://stream.landeswelle.de/lwt/mp3-192
+
+# =========================
+# LOKALRADIO GRUPPE
+# =========================
+
+# HAUPTSENDER (LOKAL)
+#EXTINF:-1 tvg-name="Radio Emscher Lippe" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Radio_Emscher_Lippe_Logo_%282021%29.png",Radio Emscher Lippe
+http://icecast.radionrw.de/gel/live/mp3/high
+#EXTINF:-1 tvg-name="Radio Essen" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Radio_Essen_Logo.png",Radio Essen
+http://icecast.radionrw.de/ess/live/mp3/high
+#EXTINF:-1 tvg-name="Radio Bochum" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Radio_Bochum_Logo.png",Radio Bochum
+http://icecast.radionrw.de/wbo/live/mp3/high
+
+# RADIO NRW SUBCHANNELS
+#EXTINF:-1 tvg-name="Radio NRW Dein Top 40 Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Top 40 Radio
+http://icecast.radionrw.de/deintop40radio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein 80er Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein 80er Radio
+http://icecast.radionrw.de/dein80erradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein 90er Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein 90er Radio
+http://icecast.radionrw.de/dein90erradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Rock Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Rock Radio
+http://icecast.radionrw.de/deinrockradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Oldie Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Oldie Radio
+http://icecast.radionrw.de/deinoldieradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Lounge Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Lounge Radio
+http://icecast.radionrw.de/deinloundgeradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Chillout Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Chillout Radio
+http://icecast.radionrw.de/deinchilloutradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Urban Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Urban Radio
+http://icecast.radionrw.de/deinurbanradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Deutschpop Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Deutschpop Radio
+http://icecast.radionrw.de/deindeutschpopradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Schlager Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Schlager Radio
+http://icecast.radionrw.de/deinschlagerradio/live/mp3/high
+#EXTINF:-1 tvg-name="Radio NRW Dein Love Radio" group-title="Lokalradio NRW" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio_NRW_logo.svg/960px-Radio_NRW_logo.svg.png",Radio NRW Dein Love Radio
+http://icecast.radionrw.de/deinloveradio/live/mp3/high
+
+#==========================
+
 #EXTINF:-1 tvg-name="MDR AKTUELL" group-title="MDR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdraktuell.png",MDR AKTUELL
 http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR JUMP" group-title="MDR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png",MDR JUMP
