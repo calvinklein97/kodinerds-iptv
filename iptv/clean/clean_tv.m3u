@@ -25,30 +25,20 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
-https://www.youtube.com/euronewsde/live
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="More than Sports TV" tvg-id="morethansports.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png",More than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-name="DAZN FAST+" tvg-id="daznfastplus.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daznfastplus.png",DAZN FAST+
-https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
 #EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="RiC" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC
-https://www.youtube.com/embed/vRgu-o0chwI
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="Ö3-VisualRadio" tvg-id="oe3.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Ö3-VisualRadio
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 #EXTINF:-1 tvg-name="SWR3-VisualRadio" tvg-id="swr3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png",SWR3-VisualRadio
@@ -65,12 +55,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-id="DeLuxeMusicRap.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
-https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-name="One 1 Music TV" tvg-id="One1MusicTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png",One 1 Music TV
-https://cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-name="Zwei 2 Music TV" tvg-id="Zwei2MusicTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png",Zwei 2 Music TV
-https://cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-name="Schlager Deluxe" tvg-id="SchlagerDeluxe.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png",Schlager Deluxe
@@ -85,24 +69,14 @@ http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m
 https://streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
 #EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
 https://1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
-https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png",SPORT BILD TV
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="wir24.tv" tvg-id="wir24.tv" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wirtv24.png",Wir24TV
-https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
 #EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
 https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-name="pearl.tv" tvg-id="Pearl.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
-https://www.youtube.com/embed/Ou6XkR1tGE4
 #EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 tvg-name="QVC PLUS" tvg-id="QVCPlus.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png",QVC PLUS
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-name="SonnenklarTV HD" tvg-id="sonnenklar.tv" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png",SonnenklarTV HD
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
@@ -119,8 +93,6 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR Duisburg HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR Köln HD
-https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR Münsterland HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR Ostwestfalen HD
@@ -231,8 +203,6 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-merseburg_h
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png",OK Ludwigshafen
-https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Dessau" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png",OK Dessau
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Magdeburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png",OK Magdeburg
@@ -247,8 +217,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_
 https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BLK Regional TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-name="kulturmd" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png",kulturmd
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
 #EXTINF:-1 tvg-name="MDF.1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png",MDF.1
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-name="PUNKTum" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum
@@ -273,8 +241,6 @@ https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playli
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
 https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein Neckar Fernsehen
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream999/playlist.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV Passau" tvg-id="niederbayerntv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png",Niederbayern TV Passau
@@ -287,8 +253,6 @@ https://wowza.telvi.de/slive/tv-mittelrhein.stream_720p/playlist.m3u8
 https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",tv.berlin
-https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
 #EXTINF:-1 tvg-name="TVA" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
@@ -299,22 +263,12 @@ https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="frf24" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frf24.png",FRF24
 https://ch-fra-n14.livespotting.com/vpu/so1795yx/0n5ikvr8_720.m3u8
-#EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
-http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
 https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 1" tvg-id="ZDFEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 1
-http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 2" tvg-id="ZDFEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 2
-http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 3" tvg-id="ZDFEvent.de3" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 3
 https://zdf-hls-03.akamaized.net/hls/live/2016213/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 4" tvg-id="ZDFEvent4.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 4
-http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 5" tvg-id="ZDFEvent5.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 5
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
-http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 7" tvg-id="ZDFEvent7.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 7
 https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 9" tvg-id="ZDFEvent7.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 9
@@ -333,8 +287,6 @@ https://arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8
 https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 6" tvg-id="ArteEvent6.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 6
 https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
-#EXTINF:-1 tvg-name="WDR Event 1" tvg-id="WDREvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 1
-https://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="WDR Event 2" tvg-id="WDREvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 2
 https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 #EXTINF:-1 tvg-name="WDR Event 3" tvg-id="WDREvent3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 3
@@ -351,42 +303,8 @@ https://wdrevent.akamaized.net/hls/live/2020360/wdr_msl4_wdrevent10/master.m3u8
 https://swrevent01hls.akamaized.net/hls/live/2016766/event01/master.m3u8
 #EXTINF:-1 tvg-name="SWR Event 2" tvg-id="SWREvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 2
 https://swrevent02hls.akamaized.net/hls/live/2016767/event02/master.m3u8
-#EXTINF:-1 tvg-name="SWR Event 3" tvg-id="SWREvent3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 3
-https://swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
 #EXTINF:-1 tvg-name="SWR Event 4" tvg-id="SWREvent4.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 4
 https://swrevent04hls.akamaized.net/hls/live/2016769/event04/master.m3u8
-#EXTINF:-1 tvg-name="NDR Event 1" tvg-id="NDREvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 1
-https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
-#EXTINF:-1 tvg-name="NDR Event 2" tvg-id="NDREvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 2
-https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
-#EXTINF:-1 tvg-name="NDR Event 3" tvg-id="NDREvent3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 3
-https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 1
-http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 2" tvg-id="NDRSpezial2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 2
-http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 3
-http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 4" tvg-id="NDRSpezial4.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 4
-http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 5" tvg-id="NDRSpezial5.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 5
-http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 6" tvg-id="NDRSpezial6.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 6
-http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 7" tvg-id="NDRSpezial7.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 7
-https://ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 8" tvg-id="NDRSpezial8.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 8
-https://ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 9" tvg-id="NDRSpezial9.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 9
-https://ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 10" tvg-id="NDRSpezial10.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 10
-https://ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8
-#EXTINF:-1 tvg-name="BR Event 1" tvg-id="BREvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 1
-https://brevent.akamaized.net/hls/live/2028218/event_01/master.m3u8
-#EXTINF:-1 tvg-name="BR Event 2" tvg-id="BREvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 2
-https://brevent.akamaized.net/hls/live/2028219/event_02/master.m3u8
-#EXTINF:-1 tvg-name="BR Event 3" tvg-id="BREvent3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 3
-https://brevent.akamaized.net/hls/live/2028220/event_03/master.m3u8
 #EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
 https://brevent.akamaized.net/hls/live/2028221/event_04/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
@@ -399,10 +317,6 @@ https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
 https://mdrevent4wwhls.akamaized.net/hls/live/2025369/mdrevent4ww/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 5" tvg-id="MDRPlus5.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 5
 https://mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
-#EXTINF:-1 tvg-name="HR Event 1" tvg-id="HREvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 1
-http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
-#EXTINF:-1 tvg-name="HR Event 2" tvg-id="HREvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 2
-http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
 #EXTINF:-1 tvg-name="rbb Event 1" tvg-id="RBBEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 1
 https://rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8
 #EXTINF:-1 tvg-name="rbb Event 2" tvg-id="RBBEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 2
@@ -441,8 +355,6 @@ http://www.reeins.tv:1935/live/re1/playlist.m3u8
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-name="oe24 TV" tvg-id="OE24TV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
-#EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
-https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
 #EXTINF:-1 tvg-name="RTV (AT)" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",RTV (AT)
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="W24.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
@@ -459,16 +371,12 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/protocol/https/format/applehttp/flavorIds/1_c3sydgl5,1_a4l5it9e,1_sc0f201h/a.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
 https://s3.welocal.world/tvo/media/447348/videos/hls.m3u8
-#EXTINF:-1 tvg-name="TeleBielingue" tvg-id="TeleBielingue.ch" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png",TeleBielingue
-https://edge21.vedge.infomaniak.com/livecast/ik:backup_5/manifest.m3u8
 #EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
 https://edge16.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
 #EXTINF:-1 tvg-name="Telebasel" tvg-id="" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png",Telebasel
 https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1 tvg-name="Adult Swim - Rick and Morty" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Rick and Morty Marathon)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 #EXTINF:-1 tvg-name="Adult Swim - Last Stream on the Left" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Last Stream on the Left Marathon)
@@ -525,8 +433,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png",Create & Craft TV
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png",Sky News
-https://www.youtube.com/embed/9Auq9mYxFEE
 #EXTINF:-1 tvg-name="4Music" tvg-id="4Music.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/4music.png",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-id="peer.tv" group-title="IPTV-IT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/peer-tv-suedtirol.png",Peer TV Südtirol
@@ -553,8 +459,6 @@ https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/mast
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD (FR)" tvg-id="ARTE.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD (FR)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-id="France24.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png",France 24
-https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-name="BFMTV" tvg-id="BFMTV.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png",BFMTV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-name="XITE" tvg-id="" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png",XITE
