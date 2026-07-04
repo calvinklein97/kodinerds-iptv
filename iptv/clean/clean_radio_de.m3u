@@ -98,7 +98,7 @@ https://stream.antenne.de/deutsch-pop/stream/mp3
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Lounge" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Lounge
 https://stream.antenne.de/lounge/stream/mp3
 #EXTINF:-1 tvg-name="ANTENNE BAYERN Chillout" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN Chillout
-https://stream.antenne.de/chillout-antenne/stream/mp3
+https://stream.antenne.de/chillout/stream/mp3
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 70er Hits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 70er Hits
 https://stream.antenne.de/70er-hits/stream/mp3
 #EXTINF:-1 tvg-name="ANTENNE BAYERN 80er Kulthits" group-title="Antenne Bayern" radio="true" tvg-logo="https://raw.githubusercontent.com/calvinklein97/kodinerds-iptv/refs/heads/master/logos/radio/antennebayern_2.png",ANTENNE BAYERN 80er Kulthits
