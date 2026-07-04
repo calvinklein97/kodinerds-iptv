@@ -507,28 +507,80 @@ http://nrj.de/bremen
 # RADIO ENERGY GRUPPE
 # ===================
 
+#EXTINF:-1 tvg-name="RADIO ENERGY Afrobeats" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Afrobeats
+https://edge11.streamonkey.net/energy-afrobeats?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY TikTok Hits" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY TikTok Hits
+https://edge10.streamonkey.net/energy-tiktokde?aggregator=radiode
+#EXTINF:-1 tvg-name="RADIO ENERGY Germany Top 40" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Germany Top 40
+https://edge09.streamonkey.net/energy-top40/stream/mp3?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Made in Germany" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Made in Germany
+https://edge15.streamonkey.net/energy-madeingermany?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Deutschrap" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Deutschrap
+https://edge10.streamonkey.net/energy-deutschrap?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits 2000" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits 2000
+https://edge09.streamonkey.net/energy-2000erhits?aggregator=shorty
 #EXTINF:-1 tvg-name="RADIO ENERGY R'n'B" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY R'n'B
-https://energydeutschland.streamabc.net/energy-rnb-mp3-128-2515431
+https://streaming.nrjaudio.fm/ouj332nxeb5p
+#EXTINF:-1 tvg-name="RADIO ENERGY Dance" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Dance
+https://edge09.streamonkey.net/energy-dance/stream/mp3?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits
+https://edge10.streamonkey.net/energy-hits/stream/mp3?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Rock" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Rock
+https://streaming.nrjaudio.fm/ounurkqn5eyc
+#EXTINF:-1 tvg-name="RADIO ENERGY Extravadance" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Extravadance
+https://edge13.streamonkey.net/energy-extravadance?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Classic Rock" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Classic Rock
+https://nrjeu1.rkb.live/oumvuu8fnozc
 #EXTINF:-1 tvg-name="RADIO ENERGY Urban" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Urban
-https://energydeutschland.streamabc.net/energy-urban-mp3-128-6617478
-#EXTINF:-1 tvg-name="RADIO ENERGY Pop" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Pop
-https://energydeutschland.streamabc.net/energy-hits-mp3-128-4663853
-#EXTINF:-1 tvg-name="RADIO ENERGY Mastermix" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Mastermix
-https://energydeutschland.streamabc.net/energy-mastermix-mp3-128-4061806
-#EXTINF:-1 tvg-name="RADIO ENERGY Eurodance" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Eurodance
-https://energydeutschland.streamabc.net/energy-eurodance-mp3-128-9843621
+https://streaming.nrjaudio.fm/ouqusryoeo8p
 #EXTINF:-1 tvg-name="RADIO ENERGY Love" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Love
-https://energydeutschland.streamabc.net/energy-love-mp3-128-5683452
+https://edge15.streamonkey.net/energy-love?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Reggaeton" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Reggaeton
+https://streaming.nrjaudio.fm/ouwggusk6j4d
+#EXTINF:-1 tvg-name="RADIO ENERGY Clubbin" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Clubbin
+https://streaming.nrjaudio.fm/oumrjf8fnozc
+#EXTINF:-1 tvg-name="RADIO ENERGY Homeoffice" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Homeoffice
+https://edge11.streamonkey.net/energy-homeoffice?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits Remix" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits Remix
+https://streaming.nrjaudio.fm/oug77irb92oc
+#EXTINF:-1 tvg-name="RADIO ENERGY Party Hits" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Party Hits
+https://edge15.streamonkey.net/energy-partyhits?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Xmas" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Xmas
+https://edge11.streamonkey.net/energy-christmashits?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Euro Hot 30" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Euro Hot 30
+https://edge10.streamonkey.net/energy-eurohot30?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Funky" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Funky
+https://streaming.nrjaudio.fm/ouukko5n3nje
+#EXTINF:-1 tvg-name="RADIO ENERGY Pop" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Pop
+https://edge12.streamonkey.net/energy-pop/stream/mp3?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Fitness" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Fitness
+https://edge13.streamonkey.net/energy-fitness?aggregator=shorty
 #EXTINF:-1 tvg-name="RADIO ENERGY Acoustic" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Acoustic
-https://energydeutschland.streamabc.net/energy-acoustic-mp3-128-2125439
+https://streaming.nrjaudio.fm/ouhstdapu6pb
 #EXTINF:-1 tvg-name="RADIO ENERGY Latino" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Latino
-https://energydeutschland.streamabc.net/energy-latino-mp3-128-5645312
-#EXTINF:-1 tvg-name="RADIO ENERGY Work" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Work
-https://energydeutschland.streamabc.net/energy-work-mp3-128-1145293
-#EXTINF:-1 tvg-name="RADIO ENERGY Chill" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Chill
-https://energydeutschland.streamabc.net/energy-chillout-mp3-128-4445585
-#EXTINF:-1 tvg-name="RADIO ENERGY Party" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Party
-https://energydeutschland.streamabc.net/energy-dance-mp3-128-7654321
+https://edge13.streamonkey.net/energy-latin?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Reggae" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Reggae
+https://streaming.nrjaudio.fm/oupqm7bgddr9
+#EXTINF:-1 tvg-name="RADIO ENERGY Rap US" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Rap US
+https://streaming.nrjaudio.fm/ou4wx2htd2ko
+#EXTINF:-1 tvg-name="RADIO ENERGY Deep House" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Deep House
+https://streaming.nrjaudio.fm/ouhmmgapu6pb
+#EXTINF:-1 tvg-name="RADIO ENERGY Classic Rap US" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Classic Rap US
+https://edge13.streamonkey.net/energy-classicrap?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Classic R'n'B" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Classic R'n'B
+https://edge11.streamonkey.net/energy-classicrnb?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Oriental" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Oriental
+https://streaming.nrjaudio.fm/oua88cw2dqao
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits 90" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits 90
+https://edge15.streamonkey.net/energy-90erhits/stream/mp3?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits 80" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits 80
+https://edge09.streamonkey.net/energy-80erhits?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Summer Hits" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Summer Hits
+https://edge10.streamonkey.net/energy-summerhits/stream/mp3?aggregator=shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits 2010" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits 2010
+https://edge09.streamonkey.net/energy-2010erhits/stream/mp3?aggregator=Shorty
+#EXTINF:-1 tvg-name="RADIO ENERGY Hits of the Year" group-title="Radio Energy" radio="true" tvg-logo="https://www.ringier.com/wp-content/uploads/2025/09/ECH_Medienmitteilung_Ringier_1200x630px-1.jpg",RADIO ENERGY Hits of the Year
+https://edge12.streamonkey.net/energy-hitsoftheyear/stream/mp3?aggregator=Shorty
 
 # ===================
 
