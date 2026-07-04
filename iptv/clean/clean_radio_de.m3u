@@ -256,21 +256,31 @@ https://stream.erf.de/erfpop.m3u
 # ======
 
 #EXTINF:-1 tvg-name="ffn" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn
-https://player.ffn.de/radioffn.mp3
-#EXTINF:-1 tvg-name="ffn 80er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 80er
-https://player.ffn.de/ffn80er.mp3
-#EXTINF:-1 tvg-name="ffn 90er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 90er
-https://player.ffn.de/ffn90er.mp3
-#EXTINF:-1 tvg-name="ffn 2000er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 2000er
-https://player.ffn.de/ffn2000er.mp3
-#EXTINF:-1 tvg-name="ffn Rock" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Rock
-https://player.ffn.de/ffnrock.mp3
-#EXTINF:-1 tvg-name="ffn Gold" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Gold (Oldies)
-https://player.ffn.de/ffngold.mp3
-#EXTINF:-1 tvg-name="ffn Chillout" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Chillout
-https://player.ffn.de/ffnchillout.mp3
+https://ffn-stream.radio-data.de/ffn_live.mp3
 #EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",Radio Bollerwagen
-https://player.ffn.de/radiobollerwagen.mp3
+https://ffn-stream.radio-data.de/bollerwagen_live.mp3
+#EXTINF:-1 tvg-name="Radio Arschbombe" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",Radio Arschbombe
+https://ffn-stream.radio-data.de/arschbombe_live.mp3
+#EXTINF:-1 tvg-name="607080" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",607080
+https://ffn-stream.radio-data.de/ffn_607080.mp3
+#EXTINF:-1 tvg-name="708090" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",708090
+https://ffn-stream.radio-data.de/ffn_708090.mp3
+#EXTINF:-1 tvg-name="80902000" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",80902000
+https://ffn-stream.radio-data.de/ffn_80902000.mp3
+#EXTINF:-1 tvg-name="ffn Hits" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Hits
+https://ffn-stream.radio-data.de/ffn_hits.mp3
+#EXTINF:-1 tvg-name="ffn Rockt" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Rockt
+https://ffn-stream.radio-data.de/ffn_rockt.mp3
+#EXTINF:-1 tvg-name="ffn Gold" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Gold
+https://ffn-stream.radio-data.de/ffn_gold.mp3
+#EXTINF:-1 tvg-name="ffn 80er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 80er
+https://ffn-stream.radio-data.de/ffn_80er.mp3
+#EXTINF:-1 tvg-name="ffn 90er" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn 90er
+https://ffn-stream.radio-data.de/ffn_90er.mp3
+#EXTINF:-1 tvg-name="ffn Comedy" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Comedy
+https://ffn-stream.radio-data.de/ffn_comedy.mp3
+#EXTINF:-1 tvg-name="ffn Tannenbaum" group-title="ffn" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn Tannenbaum
+https://ffn-stream.radio-data.de/ffn_tannenbaum.mp3
 
 # ======
 
