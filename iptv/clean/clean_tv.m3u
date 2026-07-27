@@ -32,7 +32,7 @@ https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="More than Sports TV" tvg-id="morethansports.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png",More than Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw1/chunks.m3u8
 #EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
